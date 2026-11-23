@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" role="img" aria-label="Ilustración paisajística">
+ <defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0.25" y2="1"><stop stop-color="#a6e0dc"/><stop offset="1" stop-color="#ffe7c4"/></linearGradient>
+ <linearGradient id="sea" x1="0" y1="0" x2="0.6" y2="1"><stop stop-color="#7ed1ca"/><stop offset="1" stop-color="#318b95"/></linearGradient>
+ <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#59887b"/><stop offset="1" stop-color="#254b58"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4d5"/><stop offset="1" stop-color="#ffd3a1"/></linearGradient>
+ </defs>
+ <rect width="1200" height="850" fill="url(#sky)"/>
+ 
+ <circle cx="890" cy="185" r="90" fill="#fff7d4" opacity=".83"/>
+ <g fill="#fff9e8" opacity="0.45" transform="translate(85 138) scale(1.2)"><ellipse cx="60" cy="30" rx="90" ry="24"/><ellipse cx="12" cy="14" rx="43" ry="27"/><ellipse cx="99" cy="9" rx="52" ry="32"/></g> <g fill="#fff9e8" opacity="0.23" transform="translate(780 275) scale(0.9)"><ellipse cx="60" cy="30" rx="90" ry="24"/><ellipse cx="12" cy="14" rx="43" ry="27"/><ellipse cx="99" cy="9" rx="52" ry="32"/></g>
+ <path d="M0 538 129 406 254 487 415 255 539 420 680 180 824 441 959 306 1200 500V850H0Z" fill="#92afa6"/>
+ <path d="M0 580 160 430 284 540 440 295 564 467 709 205 853 480 1014 340 1200 541V850H0Z" fill="#526b73"/>
+ <path d="m366 384 74-89 75 111-53-22-34 15-30-25-32 10ZM636 310l73-105 85 129-51-26-33 13-29-24-45 13ZM969 381l45-41 40 60-28-9-16 9-20-9Z" fill="#eff5e9"/>
+ <path d="M0 591q150-35 286 6t270-5q184-45 320 11 159 39 324-7V850H0Z" fill="#2b6170"/>
+ <path d="M0 664q290-48 596 8 289 48 604-16v194H0Z" fill="url(#sea)"/>
+ <path d="M0 730q250-44 500 0 200 29 390-4 178-27 310 8v116H0Z" fill="#4fb4ae" opacity=".57"/>
+ <g stroke="#dcf9ed" stroke-width="5" opacity=".56" fill="none"><path d="M70 704q120-17 233 0M480 719q114-11 190 2M810 681q133-12 220 2M155 766q107-15 239-3M740 780q134-14 300-2"/></g>
+ <path d="M0 606 110 562l83 97 76-49 91 131L0 850Z" fill="#183f49"/>
+ <g fill="#275954"><path d="m34 624 25-108 25 108ZM75 648l26-126 28 126ZM135 660l23-105 24 105ZM188 680l28-122 28 122ZM270 717l21-95 24 95Z"/></g>
+ <g fill="#376f69" opacity=".75"><path d="m890 645 25-103 27 103ZM1007 639l20-88 22 88ZM1106 641l29-109 30 109Z"/></g>
+
+ </svg>

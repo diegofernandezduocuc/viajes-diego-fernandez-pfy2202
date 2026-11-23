@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" role="img" aria-label="Ilustración paisajística">
+ <defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0.25" y2="1"><stop stop-color="#183e60"/><stop offset="1" stop-color="#64899b"/></linearGradient>
+ <linearGradient id="sea" x1="0" y1="0" x2="0.6" y2="1"><stop stop-color="#7ed1ca"/><stop offset="1" stop-color="#318b95"/></linearGradient>
+ <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#59887b"/><stop offset="1" stop-color="#254b58"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ddffdc"/><stop offset="1" stop-color="#ffd3a1"/></linearGradient>
+ </defs>
+ <rect width="1200" height="850" fill="url(#sky)"/>
+ 
+ <circle cx="910" cy="168" r="56" fill="#def4e9" opacity=".8"/>
+ <path d="M0 100q145 115 345 35t420-24q220 60 435-15v103q-232 73-455 6t-400-18Q150 244 0 154Z" fill="#65c8b5" opacity=".4"/>
+ <path d="M0 161q211-69 426 0 235 78 461-8t313-47v91q-190-36-320 31-228 105-477 2Q210 154 0 246Z" fill="#9de3b9" opacity=".28"/>
+ <g fill="#d1eaf6" opacity=".9"><circle cx="82" cy="90" r="3"/><circle cx="240" cy="48" r="2"/><circle cx="423" cy="122" r="3"/><circle cx="610" cy="82" r="2"/><circle cx="1048" cy="70" r="2"/><circle cx="1122" cy="187" r="2"/></g>
+ <path d="M0 549 194 391 318 515 529 290 745 521 922 330 1200 544V850H0Z" fill="#527b8a"/>
+ <path d="M0 582 190 445 321 557 528 352 750 553 915 389 1200 574V850H0Z" fill="#324f68"/>
+ <path d="m456 412 73-122 79 138-54-28-24 12-37-16-37 16ZM870 436l52-106 66 116-43-29-27 18-18-21-30 22Z" fill="#e6f2e4"/>
+ <path d="M0 644q270-54 515 0t685-29v235H0Z" fill="#254d65"/>
+ <path d="M0 751q242-51 455-8t745-15v122H0Z" fill="#356c78"/>
+ <g transform="translate(170 473)"><rect x="0" y="100" width="240" height="205" fill="#c8757d"/><path d="m-22 100 141-91 148 91Z" fill="#53687b"/><g fill="#f3dfba"><rect x="35" y="158" width="40" height="50" rx="4"/><rect x="160" y="158" width="40" height="50" rx="4"/></g><rect x="95" y="205" width="55" height="100" fill="#4a5362"/></g>
+ <g transform="translate(620 421)"><path d="M118 346V116l50-55-10-41 31-36 32 36-10 41 49 55v230Z" fill="#e2dcd0"/><path d="m116 121 72-75 74 75Z" fill="#a8b3ab"/><rect x="178" y="136" width="20" height="85" rx="10" fill="#56727b"/><path d="M0 346V200l75-65 76 65v146Z" fill="#b3c4bb"/><path d="M227 346V195l76-54 76 54v151Z" fill="#b3c4bb"/></g>
+ <path d="M0 796q265-44 526-4t674-9v67H0Z" fill="#1b4658"/>
+
+ </svg>
